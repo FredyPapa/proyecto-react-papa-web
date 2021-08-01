@@ -1,13 +1,46 @@
 body {
+  font-family: "Roboto", sans-serif;
+  color: #26292e;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h2 {
+  color: #502b1c;
+  font-weight: bold;
+  text-align: center;
+  font-size: 36px;
+  margin: 0;
+}
+
+h3 {
+  color: #145430;
+  font-weight: bold;
+  margin: 0;
+}
+
+li,
+p {
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Estilos relacionados al Menú Principal */
+nav {
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 0 !important;
+  background-color: #EDF9D7 !important;
+}
+
+.barraNav{
+  width:100%;
+}
+
+.menuBar{
+  min-width:200px;
+  text-align:center;
+}
+
+.menuBar:hover{
+  background-color: #C18864;
 }
