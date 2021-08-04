@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, NavDropdown, Nav, Navbar } from "react-bootstrap";
 import Logo from './Logo';
+import CartWidget from './CartWidget';
 
 function NavBar() {
   return (
@@ -34,6 +35,9 @@ function NavBar() {
               <Nav.Link href="#link" className="menuBar">Contáctenos</Nav.Link>
             </Nav>
           </Navbar.Collapse>
+          <Navbar.Brand href="#carrito">
+          <CartWidget/>
+          </Navbar.Brand>
         </Container>
       </Navbar>
     </div>
