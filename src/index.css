@@ -50,6 +50,38 @@ nav {
   margin: 10px auto
 }
 
-.anchoCard{
+.estiloCard{
   max-width: 500px;
+  border: #145430 solid 2px;
+  border-radius: 10px;
+}
+
+.headerCard{
+  text-align: left;
+  background-color: #C18864;
+  color:#fff;
+  font-size: 1.2rem;
+}
+
+.footerCard{
+  text-align: right;
+  background-color: #EDF9D7;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.borde-sin-curva{
+  border-radius: 0;
+}
+
+.botonComprar{
+  background-color: #C18864;
+}
+
+.botonComprar:hover{
+  background-color: #502b1c;
+}
+
+.cajaTextoCantidad{
+  text-align: center;
 }
