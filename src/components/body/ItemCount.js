@@ -5,7 +5,7 @@ import { ButtonGroup, Button, Form } from "react-bootstrap";
 function ItemCount({ stock, handler }) {
   //useState
   const [cantidad, setCantidad] = useState(0);
-  const [stockProducto, setStockProducto] = useState(stock);
+  const [, setStockProducto] = useState(stock);
   //Aumentar cantidad
   const incrementarCantidad = () => {
     if (cantidad < stock) setCantidad(cantidad + 1);
