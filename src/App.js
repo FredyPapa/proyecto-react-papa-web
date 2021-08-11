@@ -1,11 +1,10 @@
 import NavBar from "./components/header/NavBar";
-import ItemListContainer from "./components/body/ItemListContainer";
+import ItemListContainer from "./components/body/ItemList";
 
 function App() {
   return (
     <div>
       <NavBar />
-      <h2 className="margenesContenido">Catálogo de Servicios</h2>
       <ItemListContainer/>
     </div>
   );
