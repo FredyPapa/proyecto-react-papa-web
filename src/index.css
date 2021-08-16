@@ -1,0 +1,93 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #26292e;
+  margin: 0;
+}
+
+h2 {
+  color: #502b1c;
+  font-weight: bold;
+  text-align: center;
+  font-size: 36px;
+  margin: 0;
+}
+
+h3, .comprar {
+  color: #145430;
+  font-weight: bold;
+  margin: 0;
+}
+
+li,
+p {
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Estilos relacionados al Menú Principal */
+nav {
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 0 !important;
+  background-color: #EDF9D7 !important;
+}
+
+.barraNav{
+  width:100%;
+}
+
+.menuBar{
+  min-width:200px;
+  text-align:center;
+}
+
+.menuBar:hover{
+  background-color: #C18864;
+}
+
+.margenesContenido{
+  max-width: 1200px;
+  margin: 10px auto
+}
+
+.estiloCard{
+  max-width: 500px;
+  border: #145430 solid 2px;
+  border-radius: 10px;
+}
+
+.headerCard{
+  text-align: left;
+  background-color: #C18864;
+  color:#fff;
+  font-size: 1.2rem;
+}
+
+.footerCard{
+  text-align: right;
+  background-color: #EDF9D7;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.borde-sin-curva{
+  border-radius: 0;
+}
+
+.botonComprar{
+  background-color: #C18864;
+}
+
+.botonComprar:hover{
+  background-color: #502b1c;
+}
+
+.cajaTextoCantidad{
+  text-align: center;
+}
+
+.estilo-popup{
+  background-color: #C18864;
+  color:#ffffff;
+  font-weight: bold;
+}
