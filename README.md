@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Proyecto React - Carrito de Compras
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+En el presente proeycto se está implementando un carrito de compras con la estructura de componentes que ofrece React.
+Los archivos se actualizan gradualmente con los conocimientos adquiridos en cada clase.
 
 ## Available Scripts
 
