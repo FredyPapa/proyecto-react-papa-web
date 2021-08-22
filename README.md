@@ -1,5 +1,5 @@
 # Proyecto Carrito de Compras Papa-Web
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto realizado con React, consiste en un carrito de compras en el cual se va agregando funcionalidades a medida que se avanza en el desarrollo del curso.
 
 ## Available Scripts
 
