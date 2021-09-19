@@ -25,3 +25,6 @@ Uso del almacenamiento con FireStore para almacenar los catálogos y documentos 
 
 ### Estilos con Bootstrap
 Uso de React-Boostrap para aplicar estilos y funcionalidades (como ventanas modales) al proyecto.
+
+## Autor
+Fredy Luis Papa Mata
